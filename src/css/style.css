@@ -1,0 +1,14 @@
+p {
+  color: gray;
+  font-weight: 700;
+  font-size: 30px;
+}
+p a {
+  color: red;
+}
+p a:hover {
+  background-color: green;
+}
+p a:focus {
+  background-color: green;
+}
