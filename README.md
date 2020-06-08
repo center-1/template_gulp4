@@ -85,3 +85,8 @@
  - скорость выполнение задач быстрее (меньше обращений к диску)
  - более компактный конфиг 
  - streams parallelism  
+
+## Доп.материалы:
++ [книга](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/) — Less. Путеводитель для новичков.
++ [видео](https://www.youtube.com/watch?v=uPk6lQoTThE&list=PLDyvV36pndZFLTE13V4qNWTZbeipNhCgQ) — скринкаст по Gulp от Илья Кантор
++ [видео](https://youtu.be/vW51JUVT66w) — Gulp подробное руководство
